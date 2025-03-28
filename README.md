@@ -86,9 +86,14 @@ These type values are used when sending IPC messages to identify the type of eac
 | IPv6 Address | 11             | Same as PTMP                                         |
 | MAC Address  | 12             | Same as PTMP                                         |
 | uuid         | 13             | Same as PTMP                                         |
-| pair         | 14             | <first type><first value><second type><second value> |
-| vector       | 15             | <type><vectorsize><element1><element2>...            |
-| data         | 16             | <custom data type in string>\0<value>                |
+| pair         | 14             | \<first type>\<first value>\<second type>\<second value> |
+| vector       | 15             | \<type>\<vectorsize>\<element1>\<element2>...            |
+| data         | 16             | \<custom data type in string>\0\<value>                |
+
+<!---
+the backslashes in front of angle bracket values in the above table are strictly for getting the output to render properly in Markdown
+they are not part of the encoding for IPC calls, however the \0 IS part of the encoding
+-->
 
 ## PTMP Message Types
 
