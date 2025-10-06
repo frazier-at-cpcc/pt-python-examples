@@ -1,0 +1,12 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_j.html#index_j
+
+---
+
+### \- j -
+
+  * javascriptDone() : [WebView](class_web_view.html#ae970742dae5b38cf8b73d9d7b86e42df)
+  * jumpBtn_clicked() : [PhysicalLocationDialog](class_physical_location_dialog.html#ac275bfe7c1c31f25a2e738141dc4a736)
+
+

@@ -1,0 +1,50 @@
+# Cisco Packet Tracer Extensions API: Class Members
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_u.html#index_u
+
+---
+
+Here is a list of all class members with links to the classes they belong to:
+
+### \- u -
+
+  * unCluster() : [LogicalWorkspace](class_logical_workspace.html#a43586cdf803480f555dce153521b8b36)
+  * undock() : [InstructionDlg](class_instruction_dlg.html#a57f79408e3e9b10110bfe55b65b5a082)
+  * undockFromMainViewArea() : [WebView](class_web_view.html#a71e082fb595188d2d153a5cb38d44c22)
+  * unfeasibleLength : [BgpUpdate](struct_bgp_update.html#a05c2df19258b1fa29c1dcfe56ce9266c)
+  * unixSeconds : [NFHeaderv9](struct_n_f_headerv9.html#a7dad712be3df49395216ad27bc33ad59)
+  * unpair() : [BluetoothManager](class_bluetooth_manager.html#a658331ae80b399dca0ffb2f6c88e54ae)
+  * unregisterOpenFileType() : [IpcManager](class_ipc_manager.html#ae837c154ba7cf509c2c2d00f96bbc2a9)
+  * unsetRecord() : [FlowMonitor](class_flow_monitor.html#adc0bdcbef1fc1f6586eef0ec212a105a)
+  * unused : [SlarpData](struct_slarp_data.html#a425a57026837a9759bfe0fe821ba4a8e)
+  * unzipFile() : [SystemFileManager](class_system_file_manager.html#ac6f6b73b92cfbc40cf53e4bd858cc840)
+  * unzipFileTo() : [SystemFileManager](class_system_file_manager.html#a02386a05afcbf6795d193af133504be6)
+  * unzipFileToWithPassword() : [SystemFileManager](class_system_file_manager.html#a53e474f9093b145328fe4933d548b319)
+  * unzipFileWithPassword() : [SystemFileManager](class_system_file_manager.html#a52cca0d60a05ce7cc676a06b635d7ac7)
+  * update() : [PolicyClassSetDscp](class_policy_class_set_dscp.html#ac3985c2c99dfe3699b6910a9923be199)
+  * updateAllAccounts() : [EmailServer](class_email_server.html#a7781a994d04ef7d30b0d9029b9c72326)
+  * updateAsaAclStatement() : [CAsaNetworkObject](class_c_asa_network_object.html#aa60fc4cf95676e6c605c53440766af9a)
+  * updateLastReceived() : [NFTemplateRecord](class_n_f_template_record.html#a4a9517043e20de5622eea4a7170a4791)
+  * updateNetworkReservation() : [DhcpServerProcess](class_dhcp_server_process.html#a41d0e6db0dbadd7ab2311a533b5e14b4)
+  * updateOutputPort() : [PolicyMap](class_policy_map.html#a3056de592e2ce0ca1fe4136e1a657a14)
+  * updatePppoeInfo() : [PppoeClient](class_pppoe_client.html#a22d5eb9bbccabf1df5887f0802fa0029)
+  * updaterIp : [VtpSummaryFrame](struct_vtp_summary_frame.html#affaccba1555a7791a69833a147b6e952)
+  * updateTableEvent() : [CableSignaling](class_cable_signaling.html#a257955224ff6dde811ab4eaa46126316), [DslSignaling](class_dsl_signaling.html#a0262f3287bfc89fdd040571e47a3b286), [HardwareQueue](class_hardware_queue.html#ae28d3ea7bb93d5e69dcb8802e158f076), [LmiSignaling](class_lmi_signaling.html#acb71d60f1ccafac52d127ec1b504a597), [MacSwitch](class_mac_switch.html#a11890ae5570a28cde4d2cf9749f6318c), [NatProcess](class_nat_process.html#a9e0addd301caec78b4a22d4cf1ffd15b), [PhoneSignaling](class_phone_signaling.html#a0b0b00ea35695365a7bf7b099b0fba54), [VlanManager](class_vlan_manager.html#ab49a9225635bd207ad37a24090d7f189)
+  * updateTemplateCreationTime() : [Device](class_device.html#afc43a1076698e8f5892354860518836d)
+  * updateTimeStamp : [VtpSummaryFrame](struct_vtp_summary_frame.html#a0cedab0f55f4e640ca70fae6ebe1df08)
+  * updateVpnInfo() : [IkeProcess](class_ike_process.html#ab8859b72181245d7bafe90b3f9e38d11)
+  * updateZonePair() : [FirewallProcess](class_firewall_process.html#a878f961d8af60a3268577c92ccaae9ea)
+  * upTime : [EigrpNeighbor](struct_eigrp_neighbor.html#aa488947356185ce38cc26732915a08b5), [NFHeaderv9](struct_n_f_headerv9.html#adcbb6227f2fa91af4d15e5ef9c2fdcd3)
+  * urgentPtr : [TcpHeader](struct_tcp_header.html#a5645fa3a90d20296c9bc2635748b0f93)
+  * user : [Pop3Header](struct_pop3_header.html#a0f413bae78b5e46471d417f46f64d491)
+  * userAppManager() : [IPC](class_i_p_c.html#abec74c02a35bb9711e78851cd90ef3d7)
+  * userID : [WirelessProfile](struct_wireless_profile.html#a02c00a042f7de07ec1ad6bb5bfb70580)
+  * username : [ChapPacket](struct_chap_packet.html#a84243a3b15e8c2cf31b8dbb9508786bc)
+  * userName : [HttpRequest](struct_http_request.html#a560f3538cdc69a106b919e9220dd92d8)
+  * username : [PapPacket](struct_pap_packet.html#a27d6f078abe9d072aaf451a63186d9bc)
+  * usernameReceived() : [SshServerProcess](class_ssh_server_process.html#abf111ac0c7093a5c679ef80fd032bd99)
+  * userPriority : [Dot1qHeader](struct_dot1q_header.html#a175f2b1571270be78b5525e715e3086d)
+  * usOperation : [ArpPacket](struct_arp_packet.html#a641f0323b7e402244cdb78bb58c71ed8)
+  * uuidToNamePath() : [PhysicalObject](class_physical_object.html#af1a6ef4805e6d757cb5cb688225b090a)
+
+

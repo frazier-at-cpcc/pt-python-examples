@@ -1,0 +1,17 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_z.html#index_z
+
+---
+
+### \- z -
+
+  * zipDirectory() : [SystemFileManager](class_system_file_manager.html#a9505c603b2e3e68048dd6e582a30cc81)
+  * zipDirectoryTo() : [SystemFileManager](class_system_file_manager.html#a3983de37835a2b6d7e6b081ceb39e510)
+  * zipDirectoryToWithPassword() : [SystemFileManager](class_system_file_manager.html#a78fc0b7dda813ff35687cac286ddd19e)
+  * zipDirectoryWithPassword() : [SystemFileManager](class_system_file_manager.html#a487a7c2ae5ed0075d942d082cdda5a74)
+  * zoomIn() : [Workspace](class_workspace.html#acc6d001ee427873466d48f136e151905)
+  * zoomOut() : [Workspace](class_workspace.html#a014b841eca5b154fe874bcb4a600e814)
+  * zoomReset() : [Workspace](class_workspace.html#ac232b2724dd1686a8cca79e085c57415)
+
+

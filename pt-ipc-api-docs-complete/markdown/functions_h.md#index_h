@@ -1,0 +1,59 @@
+# Cisco Packet Tracer Extensions API: Class Members
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_h.html#index_h
+
+---
+
+Here is a list of all class members with links to the classes they belong to:
+
+### \- h -
+
+  * hardwareAddressLength : [DhcpPacket](struct_dhcp_packet.html#a3c3e9156615939de661a9b6459159f2c)
+  * hardwareAddressType : [DhcpPacket](struct_dhcp_packet.html#a30f4987f19712b5a191c484dc4d1b7a9)
+  * hardwareFactory() : [IPC](class_i_p_c.html#ab115955f5b389154e5171eb39d3e916e)
+  * hardWareLength : [ArpPacket](struct_arp_packet.html#a86aad3c9cbe8c1589bb356eb19f45586)
+  * hardwareType : [ArpPacket](struct_arp_packet.html#acf970cebad51717e1534a73dbbb80396)
+  * hasAllowedExternalFilter() : [WebView](class_web_view.html#aedd62c68403a2d101fab9248760efec6)
+  * hasAutoInstallDevice() : [UserDesktopAppConfig](class_user_desktop_app_config.html#a0a2988a9b78af5f98e25cff4b0b2c3fe)
+  * hasChanged() : [EnvironmentOptions](class_environment_options.html#aea05616b380a8349a2febaf38c80a357)
+  * hasCircularReference() : [ClassMapManager](class_class_map_manager.html#a5cd8542c6b04d8d5435b2307bc5671d3)
+  * hasCustomPduType() : [NetworkFile](class_network_file.html#a1a9a50d9b3a26348ed9285de70ec86d8)
+  * hasCustomTrafficType() : [NetworkFile](class_network_file.html#a2dc37057bed1c3443f381db1c2eb3dab)
+  * hasCustomVar() : [Device](class_device.html#a554f2833f59f7201251acc58aca2e745)
+  * hasDesktop() : [DeviceDialog](class_device_dialog.html#a9288c9c8dcacfa3de077b00a83ef62fd)
+  * hasExclusivePublisher() : [CepInstance](class_cep_instance.html#a02cdfb61694e65ffdf5c53415ed78ddb)
+  * hasGtsFeature() : [PolicyMap](class_policy_map.html#a53c3a2b8b5ab8ce884033f21fa2960d2)
+  * hashAlgorithm : [TransformPayload](struct_transform_payload.html#a8ea578756a31982e07de771dfd84fda9)
+  * hasInput() : [FlowMonitorData](class_flow_monitor_data.html#a5571bad032791664242de5bdc5eb6065)
+  * hasInterface() : [CScriptModule](class_c_script_module.html#a874967f44e63401bb2434cdb44d96da3)
+  * hasIpv6Address() : [HostPort](class_host_port.html#ad80b29c8c58d3ba20b4d784f0387b7c9)
+  * hasKeyframeAtTime() : [Environment](class_environment.html#a68765e725bd670e09a4f6d906c16f177)
+  * hasOutput() : [FlowMonitorData](class_flow_monitor_data.html#a5fcd1ef0d2fabf599c3c5efdeca49ae1)
+  * hasOutputFeature() : [PolicyMap](class_policy_map.html#a4a35f2550ab8250ce39a37eaae5dddba)
+  * hasPort() : [StpProcess](class_stp_process.html#a37e1e793118c8bcdcd4b762f6d2e9720)
+  * hasPrivilege() : [Cep](class_cep.html#ab1ca00c5e755ae90097db43c423d4106)
+  * hasProperty() : [Workspace](class_workspace.html#a93a8462e63d1b2adbd1f856524891b30)
+  * hasScript() : [CScriptModule](class_c_script_module.html#a95a8c1303c5ffc1813cec05de5606fe7)
+  * header : [CDhcpv6Packet](struct_c_dhcpv6_packet.html#ae5955f4d98c6e7e83867296be7e519af), [OspfLSA](struct_ospf_l_s_a.html#ad9366b573d1cbfc17e6452f83eb69ed5)
+  * headerChecksum : [Ipv6Header](struct_ipv6_header.html#acd8728cfdff893a9e2ee6a25ec9af166)
+  * headerLength : [IpHeader](struct_ip_header.html#aab215281411d0796800c3cf5ff420323), [Ipv6Header](struct_ipv6_header.html#ab8ac254956c910cedfa9a9365378309d)
+  * headerType : [Pop3Header](struct_pop3_header.html#a3e1ff334271cd84c1df64b61cd23c08a), [SmtpHeader](struct_smtp_header.html#acb20df471601f47be2046e7c19b42dd8)
+  * helloInterval : [OspfHelloPacket](struct_ospf_hello_packet.html#af89a091940cfe0ba4d4ad82cb8bdca6f), [Ospfv3HelloPacket](struct_ospfv3_hello_packet.html#a9dfd5507ba1854f803817b9c739efc41)
+  * helloTime : [HsrpMessage](struct_hsrp_message.html#a1ad43a6a48694f01e87aded9a08205bc), [Hsrpv6Message](struct_hsrpv6_message.html#ae741115176f421ff2e586bd8a1dd129f), [StpFrame](struct_stp_frame.html#a5e1b87877fdc105adb051f6adcbabe76)
+  * helpPath() : [AppWindow](class_app_window.html#a2c90c3bbd326a9a6943561e9489a88bf)
+  * hide() : [WebView](class_web_view.html#a89021d71e07eb8ee6a8d8fa6ead2279f)
+  * history : [CommandHistory](struct_command_history.html#aa0cefedc108b310509a09906b91105dc)
+  * holdTime : [BgpOpen](struct_bgp_open.html#a33fdbb9f971c7a6b7717c2432ec67712), [CdpNeighbor](struct_cdp_neighbor.html#a65568c44ed2fe010b481ae2293941196), [EigrpNeighbor](struct_eigrp_neighbor.html#aeed833229b87491cd39a45c2e00c815c), [EigrpParameters](struct_eigrp_parameters.html#a94174d0f3939d97a561be1e4fd67b65a), [HsrpMessage](struct_hsrp_message.html#a12b42ed6e4bb20fdace4cb6ecbdccb11), [Hsrpv6Message](struct_hsrpv6_message.html#aa8d8c0c0a9074c12a838ec22a97ce285)
+  * hopCount : [EigrpInternal](struct_eigrp_internal.html#a5f52ee8fd84a6ff5115e13b56dfe9841)
+  * hopcount : [Eigrpv6External](struct_eigrpv6_external.html#ab20b5c7d4cb166a67ef057317a79eea5), [Eigrpv6Internal](struct_eigrpv6_internal.html#a0abb2fe21c643dc9b8560610e6c2d780)
+  * hops : [DhcpPacket](struct_dhcp_packet.html#ae95a94a67dd018103fa19bf2e3623afe)
+  * hostIpAddress : [NtpHeader](struct_ntp_header.html#acb629beb5735dd7e70a47aa4f3191a20), [SyslogEntry](struct_syslog_entry.html#aebe6779de9eb20a904f903e1e8a21c31)
+  * hostName : [DnsRrCname](struct_dns_rr_cname.html#accb7eeb4b6c9c300c566df0aed575898)
+  * hsrpState : [HsrpMessage](struct_hsrp_message.html#ac02962059d1ca8e021478dd6a8b271ae), [Hsrpv6Message](struct_hsrpv6_message.html#a64fc421fda5c0e571574a887dd5f0be6)
+  * http_delete() : [HttpClient](class_http_client.html#a5961dffd7fe9d5e5d27ed3da8e385661)
+  * http_get() : [HttpClient](class_http_client.html#a510b69c8e816089e496f744d0318cc28)
+  * http_post() : [HttpClient](class_http_client.html#af72aeb30c51fe625cd3ffe69c523f2f9)
+  * http_put() : [HttpClient](class_http_client.html#a5e833b04d3523f57d741ed95e607e79f)
+  * httpResponseStatus : [HttpResponse](struct_http_response.html#ae306c3d3c8ac6a1a4b661261892f0fca)
+
+

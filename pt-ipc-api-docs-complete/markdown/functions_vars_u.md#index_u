@@ -1,0 +1,24 @@
+# Cisco Packet Tracer Extensions API: Class Members - Variables
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_vars_u.html#index_u
+
+---
+
+### \- u -
+
+  * unfeasibleLength : [BgpUpdate](struct_bgp_update.html#a05c2df19258b1fa29c1dcfe56ce9266c)
+  * unixSeconds : [NFHeaderv9](struct_n_f_headerv9.html#a7dad712be3df49395216ad27bc33ad59)
+  * unused : [SlarpData](struct_slarp_data.html#a425a57026837a9759bfe0fe821ba4a8e)
+  * updaterIp : [VtpSummaryFrame](struct_vtp_summary_frame.html#affaccba1555a7791a69833a147b6e952)
+  * updateTimeStamp : [VtpSummaryFrame](struct_vtp_summary_frame.html#a0cedab0f55f4e640ca70fae6ebe1df08)
+  * upTime : [EigrpNeighbor](struct_eigrp_neighbor.html#aa488947356185ce38cc26732915a08b5), [NFHeaderv9](struct_n_f_headerv9.html#adcbb6227f2fa91af4d15e5ef9c2fdcd3)
+  * urgentPtr : [TcpHeader](struct_tcp_header.html#a5645fa3a90d20296c9bc2635748b0f93)
+  * user : [Pop3Header](struct_pop3_header.html#a0f413bae78b5e46471d417f46f64d491)
+  * userID : [WirelessProfile](struct_wireless_profile.html#a02c00a042f7de07ec1ad6bb5bfb70580)
+  * username : [ChapPacket](struct_chap_packet.html#a84243a3b15e8c2cf31b8dbb9508786bc)
+  * userName : [HttpRequest](struct_http_request.html#a560f3538cdc69a106b919e9220dd92d8)
+  * username : [PapPacket](struct_pap_packet.html#a27d6f078abe9d072aaf451a63186d9bc)
+  * userPriority : [Dot1qHeader](struct_dot1q_header.html#a175f2b1571270be78b5525e715e3086d)
+  * usOperation : [ArpPacket](struct_arp_packet.html#a641f0323b7e402244cdb78bb58c71ed8)
+
+

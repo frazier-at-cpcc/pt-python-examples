@@ -138,17 +138,27 @@ class DoxygenDocScraper:
 
     def extract_main_content(self, soup):
         """Extract main documentation content from Doxygen page."""
-        # Remove navigation, header, footer
+        # Collect elements to remove (don't modify during iteration)
+        to_remove = []
+
         for element in soup.find_all(['div', 'script', 'style']):
-            classes = element.get('class', [])
-            ids = element.get('id', '')
+            if not element or not hasattr(element, 'attrs'):
+                continue
+
+            classes = element.get('class', []) if element.attrs else []
+            ids = element.get('id', '') if element.attrs else ''
 
             # Remove common Doxygen navigation elements
             if any(cls in str(classes) for cls in ['top', 'header', 'footer', 'navigation', 'tabs']):
-                element.decompose()
+                to_remove.append(element)
             elif ids in ['top', 'nav-path', 'nav-sync', 'navrow', 'titlearea']:
-                element.decompose()
+                to_remove.append(element)
             elif element.name in ['script', 'style']:
+                to_remove.append(element)
+
+        # Now remove collected elements
+        for element in to_remove:
+            if element:
                 element.decompose()
 
         # Find the main content div

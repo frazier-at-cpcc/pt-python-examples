@@ -1,0 +1,48 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_p.html#index_p
+
+---
+
+### \- p -
+
+  * packetReceived() : [Port](class_port.html#a92024fa73b2246eeed54df22275e34cd)
+  * packetReceivedWithDetails() : [Port](class_port.html#a2c3469b089608ded0a80674f9eba3cb1)
+  * packetSent() : [Port](class_port.html#a3f1050f079f379d21bb37ed49c2c2720)
+  * packetSentWithDetails() : [Port](class_port.html#a29f94c48cee2ff64a453be0776917fec)
+  * pair() : [BluetoothManager](class_bluetooth_manager.html#af6cd8718221a2e33d98380ec130c6f99)
+  * parentEnvironment() : [Environment](class_environment.html#a28d5ba68c17bae41cad934e1f2bc0c41)
+  * pauseEnvironmentTime() : [Workspace](class_workspace.html#a15b4e86ec6614d4543f12fb15f7ad594)
+  * pauseTime() : [Environment](class_environment.html#a10a62bf71eef210fd1b606da66d3db3a)
+  * peakAssessmentItemID() : [AssessmentModelScriptInterface](class_assessment_model_script_interface.html#a98e14e7056cedd925bc2f8852ec20e21)
+  * peek() : [UsbController](class_usb_controller.html#aaaedefe6041216df22112a2a4c050858)
+  * peekChar() : [UsbController](class_usb_controller.html#a639c2d6dc44e2683f99f2a2be804309d)
+  * peerConnected() : [RemoteNetwork](class_remote_network.html#ab188318c5ffd9378b1aa3a59fb95eab6)
+  * peerDisconnected() : [RemoteNetwork](class_remote_network.html#a11bf9cb7411caa92b9d401b87b7c1e53)
+  * percentageCompleteChanged() : [ActivityFile](class_activity_file.html#a510730ffb294c8d5b4ab8c75029f170a)
+  * physicalLocationDialogShown() : [PhysicalToolbar](class_physical_toolbar.html#a7e18e044df168349544763893232e853)
+  * physicalObjectAdded() : [Workspace](class_workspace.html#afb43cb3aa05718dcea7c914e87f67a78)
+  * physicalObjectMoved() : [Workspace](class_workspace.html#af45c49b4b7e042409f3304da0e5da655)
+  * physicalObjectRemoved() : [Workspace](class_workspace.html#af464a880cc394d70067cd6cce2fcf386)
+  * play() : [SimulationPanel](class_simulation_panel.html#aee49dafaa6b1f20a4a7d51327152d96f)
+  * playSound() : [Device](class_device.html#abf8fa5ddff0e158e2fda6d601aa56b49)
+  * populateEventList() : [SimulationPanel](class_simulation_panel.html#a2720b0c54dce2039d87ffdee565bc4af)
+  * portAdded() : [Device](class_device.html#aed6b1fc39defb8711b16b81fbb1b944a)
+  * portExistedInStatic() : [MacSwitch](class_mac_switch.html#aa85a3b45108295735db8f8381fc4be54)
+  * portRemoved() : [Device](class_device.html#a4c852869a6e4c6b4602fd2580e413062)
+  * portRemoving() : [Device](class_device.html#af8a78cef01f22292cc7e9a62b216901f)
+  * portStatusChanged() : [Port](class_port.html#a65ff9bb831cea163a4e255a13d3d36e5)
+  * powerChanged() : [Device](class_device.html#a0f7f7134629a3311b168144ffcd93fbc), [Port](class_port.html#a0b45a31698c1c3282ed5e7b6b2100606)
+  * poweringOff() : [Device](class_device.html#ac048c7cba5fe3e8b3329a8c84b762fbe)
+  * prev() : [InstructionDlg](class_instruction_dlg.html#a38a9fa20b4c282e852e2ce5818c56f8c)
+  * prevInstructionPage() : [ActivityFile](class_activity_file.html#a7be59139d824a37f619a32f66651b54d)
+  * print() : [UsbController](class_usb_controller.html#a5dd25db046b2de70ce468378eb96d943)
+  * println() : [TerminalLine](class_terminal_line.html#ac74ba0c140a4a00f6642fa56b4ed5c6d)
+  * processData() : [CustomBluetoothProcess](class_custom_bluetooth_process.html#a65d0089b41ab368afccd808e341b564d), [CustomTcpProcess](class_custom_tcp_process.html#a8581116717c64c831d082c33b2c24d89), [CustomUdpProcess](class_custom_udp_process.html#ade4d511d73f3332d0c608f66389d0e33)
+  * processPairRequest() : [BluetoothManager](class_bluetooth_manager.html#a6fd3bf4a0712dc0dbb4a80a9c0307fd6)
+  * promptChanged() : [TerminalLine](class_terminal_line.html#ade7a580a7054ee3f3f1f89a8efeb02cb)
+  * promptFileOpenFolder() : [AppWindow](class_app_window.html#a44dc234f3ecae08441f27d8e4c54de1c)
+  * property() : [ScriptValue](class_script_value.html#a250de5bbcad20ccd8067f932b48ffd7d)
+  * putSaveData() : [IpcManager](class_ipc_manager.html#ab585d3674390b3ca95e7e3439895d137)
+
+

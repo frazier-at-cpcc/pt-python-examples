@@ -1,0 +1,50 @@
+# Cisco Packet Tracer Extensions API: Class Members
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_n.html#index_n
+
+---
+
+Here is a list of all class members with links to the classes they belong to:
+
+### \- n -
+
+  * name : [CloudSubLink](struct_cloud_sub_link.html#ae6969ec1beb4ffa802c42000592c7ae3), [DnsResourceRecord](struct_dns_resource_record.html#a560060c8f3a08ecf41f1b18063d75d46), [NatConfigEntry](struct_nat_config_entry.html#a1f0c03fb651a1591febc4bbb9e501a05), [Pool](class_pool.html#a104b070e317895753cbdecb943bd613c), [Pop3Header](struct_pop3_header.html#a206eea32a19981d06276eb161efe3a82), [Variable](class_variable.html#aa9d78e5313a6ff7317cef5b785b43d8a), [WirelessProfile](struct_wireless_profile.html#a9e5a5c64844236a5f92b957b510cd26a)
+  * nameChanged() : [Cluster](class_cluster.html#abf8ebd46660136aa8021d678695a52db), [Device](class_device.html#a37c97a4102953e9e135ff3c96fcc7f68)
+  * nameifChanged() : [CAsaNetworkObject](class_c_asa_network_object.html#a389fc2906ee32ebc527cd67bd4c41282), [CAsaObjectManager](class_c_asa_object_manager.html#ab23f970a7e7e5b4b6748efa7a66bd7a3)
+  * nameToUuidPath() : [PhysicalObject](class_physical_object.html#a0888bf7022d990d305cd4157d186c469)
+  * nativeVlan : [CdpNativeVlan](struct_cdp_native_vlan.html#a9828f13060bc82210ad6890469df8cf8), [CdpNeighbor](struct_cdp_neighbor.html#a2b4c020e51fb9df06394bb6c801ccc29)
+  * ndsRecursiveNameServers : [Dhcpv6OptionDNS](struct_dhcpv6_option_d_n_s.html#a57b363ea9885069090eb04a54aa61607)
+  * neighborAddress : [EigrpNeighbor](struct_eigrp_neighbor.html#a4f173a6c7ea317fea682978f753efab0)
+  * neighborInterfaceId : [Ospfv6RouterInterface](struct_ospfv6_router_interface.html#a063d58e1320790fd5cf315fe2a12e888)
+  * neighborMac : [DtpFrame](struct_dtp_frame.html#af33cac6dc8946e4aa429f441bcf47b68)
+  * neighborRouterId : [Ospfv6RouterInterface](struct_ospfv6_router_interface.html#ac434d12de1914c0e24d7e3b1610f9e64)
+  * neighbors : [OspfHelloPacket](struct_ospf_hello_packet.html#a8327868bdfd14e4e320efddf03353abc), [Ospfv3HelloPacket](struct_ospfv3_hello_packet.html#aacc9fa7bb8701cd7231a949748032c11)
+  * network : [EigrpInternal](struct_eigrp_internal.html#a0ad39efdb5467f19d2d1616ed449524d), [EigrpSummaryAddress](struct_eigrp_summary_address.html#aec2d42475366b6bf26d405b40624bd50), [EigrpTopologyEntry](struct_eigrp_topology_entry.html#a19595cd224c2bf2d7d46fb9f6da1bfeb), [IPC](class_i_p_c.html#a4a270952bc9162bb549059945bdc3c6c), [RoutingNetwork](struct_routing_network.html#acdb20f900c6abbe90bb8511bddc6b12f)
+  * networkAdded() : [RoutingProcess](class_routing_process.html#acd75160017b98afacd1d0a45e7ba8037), [RoutingProcessv6](class_routing_processv6.html#a803e59f3d4363cfe8b57199b377c7c27)
+  * networkFileClosing() : [ActivityFile](class_activity_file.html#a00a75dfe5037693af6bf9078934ad87e)
+  * networkId : [RoutingEntry](struct_routing_entry.html#a00ca97ccda70a4696ce328825eb7ad3c)
+  * networkLSAs : [OspfDatabase](struct_ospf_database.html#a827271c81682fea65070e8a6b04ad0f9)
+  * networkLsaSeqNum : [OspfDatabase](struct_ospf_database.html#a20755e013e3658bb8346a7910d4aff3f)
+  * networkMask : [OspfAsExternalLSA](struct_ospf_as_external_l_s_a.html#a554422d9faea4f3fd79125cdaebd7835), [OspfHelloPacket](struct_ospf_hello_packet.html#a9a3d6cc9eaf3bed080462a4b98efc42c), [OspfSummaryLSA](struct_ospf_summary_l_s_a.html#ac5b0f6d43815bae942bf10ef3b07cba0), [OspfType7LSA](struct_ospf_type7_l_s_a.html#aa5600bb61c877d52579dc5331f635904)
+  * networkRemoved() : [RoutingProcess](class_routing_process.html#a4b53f5c8422444db3480cfac2500111e), [RoutingProcessv6](class_routing_processv6.html#a386a5c474df05c3d03dbdf9c5ec8c61b)
+  * networkSwitched() : [ActivityFile](class_activity_file.html#af48ea312c3e56257b7c4c95be3bd0a41)
+  * networkType : [ManagementFrame](struct_management_frame.html#a458d795aee7255d22b1353cb9c5a7329), [WirelessProfile](struct_wireless_profile.html#ae9f87b072dc0d386a34cb4d98239fcec)
+  * newFrameInstanceAdded() : [Simulation](class_simulation.html#ad74d67fd86baada7f804e54d7270c2d7)
+  * newScenarioBtn_clicked() : [UserCreatedPDU](class_user_created_p_d_u.html#ab960e9604bf78b3242f8d50001a2971c)
+  * next() : [InstructionDlg](class_instruction_dlg.html#a58fdbc571f2cc494991dfcc921dd5f01)
+  * nextHeader : [AhHeader](struct_ah_header.html#a8b83c564d1693fba51ae673a8a809147), [EspHeader](struct_esp_header.html#a60df5971847afcca9ca4ee1820d7cf2b), [Ipv6Header](struct_ipv6_header.html#afc7d4acb5f205b7c0ea5beb7b4c992b3)
+  * nextHop : [BgpAttribNextHop](struct_bgp_attrib_next_hop.html#ad097391056ecf4e34cc2d66ec2e70fed), [EigrpInternal](struct_eigrp_internal.html#aa77cfc7bf5bf566f2954ebfd81f5674c), [Eigrpv6External](struct_eigrpv6_external.html#a83791ac8f125b50e86bd25b470990091), [Eigrpv6Internal](struct_eigrpv6_internal.html#af961fda7505eb9c6a0b98a9ef2103076), [RipRoutePacket](struct_rip_route_packet.html#a34f1ef19ad6276093f66dcec4ff16d0e), [Ripv6RoutePacket](struct_ripv6_route_packet.html#a7cf5145eb0b6361446b156d75007ef06), [RoutingEntry](struct_routing_entry.html#a5a930c103da81fa1d3327937f3142bb5)
+  * nextInstructionPage() : [ActivityFile](class_activity_file.html#ad329b4ea4e5edc96ca8bf8106dddeac1)
+  * nextPayload : [IkePdu](struct_ike_pdu.html#a9b2efd3de4c2d4cc85d1b29003643486)
+  * nextPayloadType : [IkePayload](struct_ike_payload.html#aee8173dae0eb91256f1763af6ff74900)
+  * nfHeader : [NFExporterPacketv9](struct_n_f_exporter_packetv9.html#a0608d93e4eb2bd522dab2c7f4289b139)
+  * NLRI : [BgpUpdate](struct_bgp_update.html#aea2b22954d69ba52b794e5b850fcf064)
+  * notificationData : [NotificationPayload](struct_notification_payload.html#a9c2e8a2954ee7b2f299e7e7f1714a45d)
+  * notifyType : [NotificationPayload](struct_notification_payload.html#a5421daab32aa729fd613cb714c2478db)
+  * ntpVersion : [NtpHeader](struct_ntp_header.html#ae742a3d99fe24fec389e428bafd0b063)
+  * numAdditionalRecords : [DnsHeader](struct_dns_header.html#a6b11d4ffced6ed12b9e1a53c3f59ff7b)
+  * numAnswerRecords : [DnsHeader](struct_dns_header.html#adfda8823469230d4015f8f9944f97640)
+  * numQuestions : [DnsHeader](struct_dns_header.html#a6e3f8ad5d9e929672052481534a26d93)
+  * numTransforms : [ProposalPayload](struct_proposal_payload.html#a84dd7ee7c8648281359195c5ba2921ce)
+
+

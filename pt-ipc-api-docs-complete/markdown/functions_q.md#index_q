@@ -1,0 +1,13 @@
+# Cisco Packet Tracer Extensions API: Class Members
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_q.html#index_q
+
+---
+
+Here is a list of all class members with links to the classes they belong to:
+
+### \- q -
+
+  * queryId : [DnsHeader](struct_dns_header.html#a2d9958c629e9ace853ed551119dd05f3)
+
+

@@ -1,0 +1,11 @@
+# Cisco Packet Tracer Extensions API: Class Members - Variables
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_vars_q.html#index_q
+
+---
+
+### \- q -
+
+  * queryId : [DnsHeader](struct_dns_header.html#a2d9958c629e9ace853ed551119dd05f3)
+
+

@@ -1,0 +1,16 @@
+# Cisco Packet Tracer Extensions API: Class Members - Variables
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_vars_w.html#index_w
+
+---
+
+### \- w -
+
+  * WBit : [Ospfv6RouterLSA](struct_ospfv6_router_l_s_a.html#a55c6bff3caa489ee211da40871a08e6b)
+  * windowSize : [TcpHeader](struct_tcp_header.html#a2119d32b501c3424529c0d1cd903375f)
+  * wirelessInfo : [CapwapUdpPacket](struct_capwap_udp_packet.html#accb16a4c758f67fab2eed98c2c156505)
+  * wirelessInfoLength : [CapwapUdpPacket](struct_capwap_udp_packet.html#a73982356578caf869758aec3b1116385)
+  * withdrawnRoutes : [BgpUpdate](struct_bgp_update.html#abf9a7f8b4d69e22b0d028730b14c4943)
+  * wlcAddress : [DhcpPacket](struct_dhcp_packet.html#ab29751febd858a872ab964946b9ee9e9)
+
+

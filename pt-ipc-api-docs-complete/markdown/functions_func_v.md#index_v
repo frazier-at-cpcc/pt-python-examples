@@ -1,0 +1,15 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_v.html#index_v
+
+---
+
+### \- v -
+
+  * validateIoeUser() : [Server](class_server.html#aa70fd945a6cf422f8614d6018093f6bf)
+  * valueChanged() : [IoEComponent](class_io_e_component.html#a44129bca678cd4d58c87d0e96fa900d5)
+  * valueOfIndex() : [Variable](class_variable.html#a292bff5dca246b8dcf5fe288baf7a25d)
+  * valuesToString() : [StringPool](class_string_pool.html#a735c8f1f39e95bbe1780abd2baec76b6)
+  * valueToString() : [Variable](class_variable.html#a2e598f5f7eb745f1593913be9ed624a2)
+
+

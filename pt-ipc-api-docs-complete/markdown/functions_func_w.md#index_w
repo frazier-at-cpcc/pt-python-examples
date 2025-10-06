@@ -1,0 +1,19 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_w.html#index_w
+
+---
+
+### \- w -
+
+  * write() : [UsbController](class_usb_controller.html#ac9571004d175997c0b5a4fa56d552b31)
+  * writeBinaryToEncryptedFile() : [SystemFileManager](class_system_file_manager.html#a7673e09d6dc7063446f01753e9e62892)
+  * writeBinaryToFile() : [SystemFileManager](class_system_file_manager.html#ade1f4d59bcc3809edc1a28aa8cd619bd)
+  * writePlainTextToFile() : [SystemFileManager](class_system_file_manager.html#a2cea514a692e54e9d0284945d8a4d77a)
+  * writeTextToEncryptedFile() : [SystemFileManager](class_system_file_manager.html#a67afc9c1bf39dd2d4fcb78a1d07e0fbb)
+  * writeTextToEncryptedLogFile() : [SystemFileManager](class_system_file_manager.html#aeee4888d847b20b889a07bf3edf34b8f)
+  * writeTextToFile() : [SystemFileManager](class_system_file_manager.html#af31699c0b46e3107ff182163852f61a8)
+  * writeToPT() : [AppWindow](class_app_window.html#a3efc839fb255cd2329147a96cf4dfdcf)
+  * writeUdpDatagram() : [MultiUserManager](class_multi_user_manager.html#ae8da4bcff8185e785b4d74d21492e8bb)
+
+

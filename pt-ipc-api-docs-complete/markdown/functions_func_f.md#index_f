@@ -1,0 +1,51 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_f.html#index_f
+
+---
+
+### \- f -
+
+  * fastForwardTime() : [RealtimeToolbar](class_realtime_toolbar.html#a95dfffda5d839b990c0d0b22c972561d)
+  * fileActivityWizard() : [AppWindow](class_app_window.html#ae9fb2e43f66ac4e28c68d8e93d39b8da)
+  * fileAdded() : [Directory](class_directory.html#af70f3f3cf7317cebeb1100ab4484e4fa)
+  * fileChanged() : [SystemFileWatcher](class_system_file_watcher.html#a9bd615d25e2dc888de5ad63ea9ba58b1)
+  * fileClosing() : [AppWindow](class_app_window.html#a9c4ad4c308f667236040cc85b91cb291)
+  * fileExist() : [Directory](class_directory.html#aaf3027d40c409675160e4708f7ee3cfc)
+  * fileExists() : [SystemFileManager](class_system_file_manager.html#ad031123c3b96d6859bf1131483fb055e)
+  * fileNew() : [AppWindow](class_app_window.html#a24f830dfb8fa665155abaf0fe05a6d94)
+  * fileNewed() : [AppWindow](class_app_window.html#a133db700491e99a132fc7826f96e1bd6)
+  * fileOpen() : [AppWindow](class_app_window.html#ac27fcd4fc1585729154883cc2a436d8e)
+  * fileOpened() : [AppWindow](class_app_window.html#acaec3b8f2909f4e6a68c866dc7bcd737)
+  * fileOpenFromBytes() : [AppWindow](class_app_window.html#ad67065ba3b71f4d7f821a4a23b799774)
+  * fileOpenFromURL() : [AppWindow](class_app_window.html#a55a7ca535dc77b796165cdc321e3b62b)
+  * fileRemoved() : [Directory](class_directory.html#a33396bb64403ef67913ab0bd19fd977f)
+  * fileRenamed() : [Directory](class_directory.html#ad8d37c969d31211856c5f538a852f2bb)
+  * fileSave() : [AppWindow](class_app_window.html#aa36b56b5a36cc225455dfafba23aeecb)
+  * fileSaveAs() : [AppWindow](class_app_window.html#a406450756eeab2b62f16d05c5b10bb68)
+  * fileSaveAsAsync() : [AppWindow](class_app_window.html#aab39a4c18509c2abd1267ea9628ad6bf)
+  * fileSaveAsNoPrompt() : [AppWindow](class_app_window.html#a7fc1db8f4d2c6b370d529bd3ec79276f)
+  * fileSaveAsPkz() : [AppWindow](class_app_window.html#ab14f13ca39b380175350ca578176c2ec)
+  * fileSaveAsPkzAsync() : [AppWindow](class_app_window.html#a09f60e93fa2e321fe7be4c30a58c447b)
+  * fileSaveAsync() : [AppWindow](class_app_window.html#a5a4aabd1f4b3a643e109cef8c4d956f8)
+  * fileSaved() : [AppWindow](class_app_window.html#a8aee07f7cf48fb9a06683aaa91cb0d21)
+  * fileSaveDone() : [AppWindow](class_app_window.html#a0168b21c40fd0a573f55d71f5f48555f)
+  * fileSaveToBytes() : [AppWindow](class_app_window.html#ac60fe335006de82030ec42aa8c110fba)
+  * fileSaveToBytesAsync() : [AppWindow](class_app_window.html#aaa9d00d4bf5bf99fe74a9fa41dcdb1b3)
+  * fileSaveToBytesDone() : [AppWindow](class_app_window.html#a0ae0e68fd4f1fa0ad762686ec1878e07)
+  * fileSystemResourceRequested() : [WebView](class_web_view.html#a88f450ef0e074061afc6014926be7310)
+  * fillColor() : [Workspace](class_workspace.html#ae06f435becd5c736944be915f1c85841)
+  * finalizeFrameInstance() : [CustomUdpProcess](class_custom_udp_process.html#a736b45015d9d6c40b9372b8ad46771fc), [Simulation](class_simulation.html#aa28dafd32a54849a08fe003f7ca8aea4)
+  * findGeoIconByDeviceName() : [GeoView](class_geo_view.html#a080f2d6b44e7a139c4eb4a50668da541)
+  * findGeoIconByPhysicalObjectName() : [GeoView](class_geo_view.html#a0e08237cf668963f4723654e626a1ca3)
+  * findGeoIconContainerInCurrentViewByDeviceName() : [GeoView](class_geo_view.html#a6fdd0406721b12c030b558ae4c913596)
+  * finishReply() : [SmFileSystemResourceReply](class_sm_file_system_resource_reply.html#a321ac8faaf039e0f4d83bc23ec56b5b6)
+  * firePDU() : [UserCreatedPDU](class_user_created_p_d_u.html#a773b612f0f7f51989bd7776bec2ea29d)
+  * flush() : [TerminalLine](class_terminal_line.html#a838023327a1971ddc0ebdc3a12b7d123)
+  * forward() : [Simulation](class_simulation.html#ab8e2313fdab2150b47d2559ef1f26135), [SimulationPanel](class_simulation_panel.html#a9bfb39d6200e2a30f47c359746476439)
+  * forwardEnded() : [Simulation](class_simulation.html#aa3f1f71ac3375c153e7ec68a724fc1e9)
+  * forwardStarted() : [Simulation](class_simulation.html#ac9138f5c2717feaa6a6856d9302eb114)
+  * foundMyIpTaken() : [ArpProcess](class_arp_process.html#aa7159288ac2d647f2a903815fc894a72)
+  * foundTakingMyIp() : [ArpProcess](class_arp_process.html#a5f890cab82c1b1518eadabcac85adcdb)
+
+

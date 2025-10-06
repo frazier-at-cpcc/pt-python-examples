@@ -1,0 +1,23 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_n.html#index_n
+
+---
+
+### \- n -
+
+  * name() : [Pool](class_pool.html#a104b070e317895753cbdecb943bd613c), [Variable](class_variable.html#aa9d78e5313a6ff7317cef5b785b43d8a)
+  * nameChanged() : [Cluster](class_cluster.html#abf8ebd46660136aa8021d678695a52db), [Device](class_device.html#a37c97a4102953e9e135ff3c96fcc7f68)
+  * nameifChanged() : [CAsaNetworkObject](class_c_asa_network_object.html#a389fc2906ee32ebc527cd67bd4c41282), [CAsaObjectManager](class_c_asa_object_manager.html#ab23f970a7e7e5b4b6748efa7a66bd7a3)
+  * nameToUuidPath() : [PhysicalObject](class_physical_object.html#a0888bf7022d990d305cd4157d186c469)
+  * network() : [IPC](class_i_p_c.html#a4a270952bc9162bb549059945bdc3c6c)
+  * networkAdded() : [RoutingProcess](class_routing_process.html#acd75160017b98afacd1d0a45e7ba8037), [RoutingProcessv6](class_routing_processv6.html#a803e59f3d4363cfe8b57199b377c7c27)
+  * networkFileClosing() : [ActivityFile](class_activity_file.html#a00a75dfe5037693af6bf9078934ad87e)
+  * networkRemoved() : [RoutingProcess](class_routing_process.html#a4b53f5c8422444db3480cfac2500111e), [RoutingProcessv6](class_routing_processv6.html#a386a5c474df05c3d03dbdf9c5ec8c61b)
+  * networkSwitched() : [ActivityFile](class_activity_file.html#af48ea312c3e56257b7c4c95be3bd0a41)
+  * newFrameInstanceAdded() : [Simulation](class_simulation.html#ad74d67fd86baada7f804e54d7270c2d7)
+  * newScenarioBtn_clicked() : [UserCreatedPDU](class_user_created_p_d_u.html#ab960e9604bf78b3242f8d50001a2971c)
+  * next() : [InstructionDlg](class_instruction_dlg.html#a58fdbc571f2cc494991dfcc921dd5f01)
+  * nextInstructionPage() : [ActivityFile](class_activity_file.html#ad329b4ea4e5edc96ca8bf8106dddeac1)
+
+

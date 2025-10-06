@@ -1,0 +1,44 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_m.html#index_m
+
+---
+
+### \- m -
+
+  * macChanged() : [Port](class_port.html#ab304bf37b6d03514b0bf8af46798d842)
+  * macEntryAdded() : [Vlan](class_vlan.html#a0407fe3ff96a744cc53b5e9e18b54742)
+  * macEntryRemoved() : [Vlan](class_vlan.html#a4512110e99712313ce5c82a9b4141855)
+  * mailReceived() : [Pop3Client](class_pop3_client.html#ac5f7f9d7b8c780fc33b5eebe04ddd4df)
+  * mailSent() : [SmtpClient](class_smtp_client.html#a073062025310008f8b83f2199946e8d3)
+  * makeDirectory() : [SystemFileManager](class_system_file_manager.html#a251e8e824c4c10ca782c5935ecf5d1aa)
+  * messageForFrontEnd() : [FrontEndBridge](class_front_end_bridge.html#aeb6709602e7efe7a4f727cd65ad7d6d1)
+  * messageReceived() : [CepInstance](class_cep_instance.html#ac4771cc7f7f1f9b967b1c6f95f41044e)
+  * modeChanged() : [TerminalLine](class_terminal_line.html#ae7587768dac1add7c8c04e20f45ed52d)
+  * modeSwitched() : [PLSwitch](class_p_l_switch.html#a910202e2233cbed80eff612bdedc2529), [RSSwitch](class_r_s_switch.html#a28d1081497f563ac963284138a68a44c)
+  * moduleAdded() : [Device](class_device.html#a229c5694ca916d7b905ee4febba3ef01)
+  * moduleRemoved() : [Device](class_device.html#ae3bb5e79149948d47e316002fadcbe02)
+  * modules() : [HardwareFactory](class_hardware_factory.html#a4aa2a5263b7487acae9af7d323019a30)
+  * monitorInUse() : [FlowMonitor](class_flow_monitor.html#a58ad0209141cbc59a2079d5c86102938)
+  * moreDisplayed() : [TerminalLine](class_terminal_line.html#aa8b3fbe81be8e8d090ab967c15dc02ae)
+  * moveBack() : [LogicalToolbar](class_logical_toolbar.html#a2094cf40eae6d20521bd21bbb77bd483)
+  * moveBy() : [ComponentItem](class_component_item.html#a4e8487d5f194a582d1bf6cd1e3255bbd), [GeoIcon](class_geo_icon.html#a733e97bd53f401a219fdae6c4f6f01d2), [PhysicalObject](class_physical_object.html#a8645498a80b77c06584365cc33f95be7)
+  * moveByInPhysicalWS() : [Device](class_device.html#a3866354e4ba96dab1022fa4a9efd2285)
+  * moveCanvasItemBy() : [LogicalWorkspace](class_logical_workspace.html#a338e99fecab812efc5f447ccd8ba71ca)
+  * moveIntoCluster() : [ComponentItem](class_component_item.html#a6a5888f0f58d84fb7745f05ff14a6e0d)
+  * moveIntoObject() : [PhysicalObject](class_physical_object.html#a48df1104b99bc8fa091906488b261030)
+  * moveItemInWorkspace() : [Workspace](class_workspace.html#a4777892cd437f27e2bd41ed7f2bf8355)
+  * moveItemToCluster() : [LogicalWorkspace](class_logical_workspace.html#adaa452d96039e5f5d85004166ab66629)
+  * moveObject() : [PhysicalToolbar](class_physical_toolbar.html#a14c64b1101db1ada8569cf43721e7fd5)
+  * moveOutOfCurrentCluster() : [ComponentItem](class_component_item.html#a50b8c6c229063c4832ad1d07d2e0c291)
+  * moveOutOfCurrentObject() : [PhysicalObject](class_physical_object.html#a72128997c43a9c35472756f169e7cab4)
+  * moveRemoteNetwork() : [LogicalWorkspace](class_logical_workspace.html#a6fe2fb57d263a44e10ed0af467ecbc04)
+  * moveSrcDirectoryToDestDirectory() : [SystemFileManager](class_system_file_manager.html#a366c606a2d8d5d7aa010d2e604c5a7d2)
+  * moveSrcFileToDestFile() : [SystemFileManager](class_system_file_manager.html#a325d23ac626b2cdd2df67159d834370a)
+  * moveTo() : [ComponentItem](class_component_item.html#a98f9bf665667e732211c624ad9bac606), [GeoIcon](class_geo_icon.html#a049e676b32650a1887473822be60406a), [PhysicalObject](class_physical_object.html#a40e7455d68f922dcbab4746af03ca41e)
+  * moveToLocation() : [Cluster](class_cluster.html#af47907a11a56df1ef500c27fc41ced15), [Device](class_device.html#a1741560dedf627e016381bbfbc3a4d70)
+  * moveToLocationCentered() : [Cluster](class_cluster.html#aeef740d59387105a4e2a1569685841ec), [Device](class_device.html#ad4cb2019a5260f4a6ac10e510c14788b)
+  * moveToLocInPhysicalWS() : [Device](class_device.html#abdaea8dc0a84fa32ea9f23925a77033e)
+  * multiUserManager() : [IPC](class_i_p_c.html#a8647fd9d22c81415e5ee35a1267bba30)
+
+

@@ -1,0 +1,27 @@
+# Cisco Packet Tracer Extensions API: Class Members
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_w.html#index_w
+
+---
+
+Here is a list of all class members with links to the classes they belong to:
+
+### \- w -
+
+  * WBit : [Ospfv6RouterLSA](struct_ospfv6_router_l_s_a.html#a55c6bff3caa489ee211da40871a08e6b)
+  * windowSize : [TcpHeader](struct_tcp_header.html#a2119d32b501c3424529c0d1cd903375f)
+  * wirelessInfo : [CapwapUdpPacket](struct_capwap_udp_packet.html#accb16a4c758f67fab2eed98c2c156505)
+  * wirelessInfoLength : [CapwapUdpPacket](struct_capwap_udp_packet.html#a73982356578caf869758aec3b1116385)
+  * withdrawnRoutes : [BgpUpdate](struct_bgp_update.html#abf9a7f8b4d69e22b0d028730b14c4943)
+  * wlcAddress : [DhcpPacket](struct_dhcp_packet.html#ab29751febd858a872ab964946b9ee9e9)
+  * write() : [UsbController](class_usb_controller.html#ac9571004d175997c0b5a4fa56d552b31)
+  * writeBinaryToEncryptedFile() : [SystemFileManager](class_system_file_manager.html#a7673e09d6dc7063446f01753e9e62892)
+  * writeBinaryToFile() : [SystemFileManager](class_system_file_manager.html#ade1f4d59bcc3809edc1a28aa8cd619bd)
+  * writePlainTextToFile() : [SystemFileManager](class_system_file_manager.html#a2cea514a692e54e9d0284945d8a4d77a)
+  * writeTextToEncryptedFile() : [SystemFileManager](class_system_file_manager.html#a67afc9c1bf39dd2d4fcb78a1d07e0fbb)
+  * writeTextToEncryptedLogFile() : [SystemFileManager](class_system_file_manager.html#aeee4888d847b20b889a07bf3edf34b8f)
+  * writeTextToFile() : [SystemFileManager](class_system_file_manager.html#af31699c0b46e3107ff182163852f61a8)
+  * writeToPT() : [AppWindow](class_app_window.html#a3efc839fb255cd2329147a96cf4dfdcf)
+  * writeUdpDatagram() : [MultiUserManager](class_multi_user_manager.html#ae8da4bcff8185e785b4d74d21492e8bb)
+
+

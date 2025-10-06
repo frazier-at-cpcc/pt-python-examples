@@ -1,0 +1,27 @@
+# Cisco Packet Tracer Extensions API: Class Members - Functions
+
+Source: https://tutorials.ptnetacad.net/help/default/IpcAPI/functions_func_o.html#index_o
+
+---
+
+### \- o -
+
+  * offFocus() : [WebView](class_web_view.html#a56148b9c7e6ca362c3921402e4363d17)
+  * onClicked() : [MenuItem](class_menu_item.html#af37ae441e63a2621505e2fa98becb059)
+  * onDone() : [HttpClient](class_http_client.html#a56ee96458f4ca83a762f03eca0596c8d)
+  * onFocus() : [WebView](class_web_view.html#ab65ff95f39dba9d1d59df4e8ec8e61c3)
+  * onNoAutoConnectError() : [LogicalWorkspace](class_logical_workspace.html#aa5836e8c386a01e275e12357869f39ed)
+  * onOpen() : [IpcManager](class_ipc_manager.html#a004501b45af445ce1604806eaae8ebf8)
+  * onOpening() : [IpcManager](class_ipc_manager.html#a0e9268cb7856d53810b660655ed9ea2f)
+  * onRequest() : [HttpServer](class_http_server.html#a9ba822591d38f35e8aa4b92499bad38b)
+  * onSave() : [IpcManager](class_ipc_manager.html#ac3988f3a3ab61d616d584e67731a1b72)
+  * onStart() : [HttpClient](class_http_client.html#a9f11bbcfa51d6ad5e9b2a54239d40c3c)
+  * openURL() : [AppWindow](class_app_window.html#ab4d6e58677df7d6129164cc9f424110d)
+  * options() : [IPC](class_i_p_c.html#ab70dac64d0bf0c8ebac0eefc0868e0b4)
+  * optionsChanged() : [Options](class_options.html#a0b08e58330f013ab42e3fd9c9cb0b70b)
+  * outputWritten() : [TerminalLine](class_terminal_line.html#a3708edcec4d0a2b48754fa44d1d16cfd)
+  * overrideInstructions() : [InstructionDlg](class_instruction_dlg.html#ab2afc986a0361c53ebbcb96c1fd5089d)
+  * overrideProgressLabel() : [InstructionDlg](class_instruction_dlg.html#ad31244dba946fc5e6abca0a1430db090)
+  * overrideTimeLabel() : [InstructionDlg](class_instruction_dlg.html#ab2ccd31de8e948bf2511ccd7528b051f)
+
+
