@@ -21,7 +21,7 @@ AUTHENTICATION_SIMPLE = 2
 AUTHENTICATION_MD5 = 4
 KEEP_ALIVE_PERIOD = 60  # seconds, note not implemented in this example, keep alives are PTMP message type 6
 
-server_address = ('127.0.0.1', DEFAULT_IPC_PORT)
+server_address = ('192.168.1.18', DEFAULT_IPC_PORT)
 username = "net.ihitc.ptmptest"  # Replace with your registered ExApp ID
 password = "cisco"  # Replace with your ExApp key
 
